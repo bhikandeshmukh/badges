@@ -1,6 +1,6 @@
 ## Select Your Fev Badge
 
-Improve your README.md profile with these amazing badges. See a sample on [my profile](https://github.com/thebhikandeshmukh)
+Improve your README.md profile with these amazing badges. See a sample on [my profile](https://github.com/bhikandeshmukh)
 
 ## How to use?
 1. Get a Uri

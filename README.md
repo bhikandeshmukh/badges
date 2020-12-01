@@ -228,6 +228,7 @@ https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-t
 - To small badge remove {SECONDARY}
 - Get {ICON} and {HEX-COLOR} [here](https://simpleicons.org/)
 
+extra https://forthebadge.com/
 
 ## More
 
